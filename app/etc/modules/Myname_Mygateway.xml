@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Myname_Mygateway>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Myname_Mygateway>
+    </modules>
+</config>
