@@ -10,7 +10,6 @@ In <code> Myname_Mygateway_PaymentController </code>
 
 <code>cancelAction()</code> is triggered when an order is to be cancelled
 
-
 In <code>Myname_Mygateway_Model_Standard extends Mage_Payment_Model_Method_Abstract<code>
 
 <code>getOrderPlaceRedirectUrl()</code> is called to get redirecturl of your gateway.
