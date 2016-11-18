@@ -1,0 +1,1 @@
+# Magento_Payment_Gateway_Skeleton
